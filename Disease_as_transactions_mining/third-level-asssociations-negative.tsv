@@ -1,0 +1,606 @@
+C01.252.400	Sesamum indicum	1	Gram-Negative Bacterial Infections
+C01.252.400	Salvia hispanica	1	Gram-Negative Bacterial Infections
+C01.252.400	Nasturtium officinale	1	Gram-Negative Bacterial Infections
+C01.252.410	Allium sativum	1	Gram-Positive Bacterial Infections
+C01.252.410	Chamaemelum nobile	1	Gram-Positive Bacterial Infections
+C01.252.847	Nasturtium officinale	1	Spirochaetales Infections
+C01.539.463	Trigonella foenum-graecum	1	Intraabdominal Infections
+C01.539.674	Juniperus communis	1	Pregnancy Complications, Infectious
+C01.539.800	Artemisia vulgaris	1	Skin Diseases, Infectious
+C01.703.295	Artemisia vulgaris	1	Dermatomycoses
+C03.335.865	Nasturtium officinale	1	Trematode Infections
+C03.518.424	Nasturtium officinale	1	Fascioliasis
+C03.858.211	Mentha x piperita	1	Ectoparasitic Infestations
+C04.588.274	Allium sativum	1	Digestive System Neoplasms
+C04.588.805	Glycyrrhiza glabra	1	Skin Neoplasms
+C04.588.894	Linum usitatissimum	1	Thoracic Neoplasms
+C04.588.894	Glycyrrhiza glabra	1	Thoracic Neoplasms
+C04.697.098	Carthamus tinctorius	1	Carcinogenesis
+C04.730.713	Glycyrrhiza glabra	1	Paraneoplastic Endocrine Syndromes
+C05.550.091	Ginkgo biloba	1	Arthralgia
+C05.651.512	Glycyrrhiza glabra	1	Muscle Spasticity
+C05.651.515	Glycyrrhiza glabra	1	Muscle Weakness
+C05.651.542	Glycyrrhiza glabra	1	Myalgia
+C05.651.594	Trigonella foenum-graecum	1	Myositis
+C05.651.701	Glycyrrhiza glabra	2	Paralyses, Familial Periodic
+C05.651.807	Glycyrrhiza glabra	3	Rhabdomyolysis
+C05.651.807	Linum usitatissimum	1	Rhabdomyolysis
+C05.660.585	Ginkgo biloba	1	Limb Deformities, Congenital
+C06.301.371	Allium sativum	1	Gastrointestinal Neoplasms
+C06.405.117	Laurus nobilis	1	Esophageal Diseases
+C06.405.205	Glycyrrhiza glabra	1	Gastroenteritis
+C06.405.227	Glycyrrhiza glabra	1	Gastrointestinal Hemorrhage
+C06.405.249	Allium sativum	1	Gastrointestinal Neoplasms
+C06.405.469	Allium sativum	4	Intestinal Diseases
+C06.405.469	Capsicum frutescens	1	Intestinal Diseases
+C06.405.748	Allium sativum	2	Stomach Diseases
+C06.405.748	Glycyrrhiza glabra	1	Stomach Diseases
+C06.552.195	Cinnamomum verum	1	Chemical and Drug Induced Liver Injury
+C06.552.195	Curcuma longa	1	Chemical and Drug Induced Liver Injury
+C06.552.195	Syzygium aromaticum	1	Chemical and Drug Induced Liver Injury
+C06.552.195	Ginkgo biloba	1	Chemical and Drug Induced Liver Injury
+C06.552.195	Mentha x piperita	1	Chemical and Drug Induced Liver Injury
+C06.552.195	Helianthus annuus	1	Chemical and Drug Induced Liver Injury
+C06.552.195	Allium sativum	1	Chemical and Drug Induced Liver Injury
+C06.552.195	Nigella sativa	1	Chemical and Drug Induced Liver Injury
+C06.552.241	Carthamus tinctorius	1	Fatty Liver
+C06.552.241	Foeniculum vulgare	1	Fatty Liver
+C06.552.308	Syzygium aromaticum	1	Hepatic Insufficiency
+C06.552.308	Pimpinella anisum	1	Hepatic Insufficiency
+C06.552.416	Nasturtium officinale	1	Hepatomegaly
+C06.552.664	Nasturtium officinale	1	Liver Diseases, Parasitic
+C06.552.830	Nasturtium officinale	1	Porphyrias, Hepatic
+C06.844.640	Trigonella foenum-graecum	1	Peritonitis
+C07.465.409	Sesamum indicum	1	Lip Diseases
+C07.465.864	Cinnamomum verum	1	Stomatitis
+C07.465.864	Apium graveolens	1	Stomatitis
+C07.465.864	Glycyrrhiza glabra	1	Stomatitis
+C08.127.108	Allium sativum	2	Asthma
+C08.127.108	Achillea millefolium	1	Asthma
+C08.127.108	Cichorium intybus	1	Asthma
+C08.127.108	Pimpinella anisum	1	Asthma
+C08.127.108	Persea americana	1	Asthma
+C08.127.108	Salvia rosmarinus	1	Asthma
+C08.127.108	Apium graveolens	1	Asthma
+C08.127.108	Capsicum frutescens	1	Asthma
+C08.127.108	Sesamum indicum	1	Asthma
+C08.127.108	Artemisia vulgaris	1	Asthma
+C08.127.108	Helianthus annuus	1	Asthma
+C08.127.108	Foeniculum vulgare	1	Asthma
+C08.127.108	Thymus vulgaris	1	Asthma
+C08.127.108	Taraxacum officinale	1	Asthma
+C08.127.108	Juniperus communis	1	Asthma
+C08.127.108	Chenopodium quinoa	1	Asthma
+C08.127.108	Trigonella foenum-graecum	1	Asthma
+C08.127.108	Laurus nobilis	1	Asthma
+C08.127.108	Chamaemelum nobile	1	Asthma
+C08.127.321	Coriandrum sativum	1	Bronchial Spasm
+C08.127.321	Trigonella foenum-graecum	1	Bronchial Spasm
+C08.127.446	Curcuma longa	1	Bronchitis
+C08.360.313	Apium graveolens	1	Laryngeal Edema
+C08.360.940	Apium graveolens	1	Voice Disorders
+C08.381.483	Perilla frutescens	1	Lung Diseases, Interstitial
+C08.381.495	Achillea millefolium	1	Lung Diseases, Obstructive
+C08.381.495	Cichorium intybus	1	Lung Diseases, Obstructive
+C08.381.495	Curcuma longa	1	Lung Diseases, Obstructive
+C08.381.495	Persea americana	1	Lung Diseases, Obstructive
+C08.381.495	Apium graveolens	1	Lung Diseases, Obstructive
+C08.381.495	Capsicum frutescens	1	Lung Diseases, Obstructive
+C08.381.495	Sesamum indicum	1	Lung Diseases, Obstructive
+C08.381.495	Artemisia vulgaris	1	Lung Diseases, Obstructive
+C08.381.495	Helianthus annuus	1	Lung Diseases, Obstructive
+C08.381.495	Allium sativum	1	Lung Diseases, Obstructive
+C08.381.495	Foeniculum vulgare	1	Lung Diseases, Obstructive
+C08.381.495	Taraxacum officinale	1	Lung Diseases, Obstructive
+C08.381.495	Juniperus communis	1	Lung Diseases, Obstructive
+C08.381.495	Chenopodium quinoa	1	Lung Diseases, Obstructive
+C08.381.495	Trigonella foenum-graecum	1	Lung Diseases, Obstructive
+C08.381.540	Linum usitatissimum	1	Lung Neoplasms
+C08.381.540	Glycyrrhiza glabra	1	Lung Neoplasms
+C08.381.677	Syzygium aromaticum	1	Pneumonia
+C08.381.677	Sesamum indicum	1	Pneumonia
+C08.381.742	Syzygium aromaticum	1	Pulmonary Edema
+C08.381.840	Brassica nigra	1	Respiratory Distress Syndrome, Adult
+C08.460.799	Macropiper excelsum	1	Rhinitis
+C08.460.799	Persea americana	1	Rhinitis
+C08.460.799	Apium graveolens	1	Rhinitis
+C08.460.799	Capsicum annuum	1	Rhinitis
+C08.460.799	Capsicum frutescens	1	Rhinitis
+C08.460.799	Artemisia vulgaris	1	Rhinitis
+C08.460.799	Helianthus annuus	1	Rhinitis
+C08.460.799	Allium sativum	1	Rhinitis
+C08.460.799	Foeniculum vulgare	1	Rhinitis
+C08.460.799	Taraxacum officinale	1	Rhinitis
+C08.460.799	Chenopodium quinoa	1	Rhinitis
+C08.460.799	Crocus sativus	1	Rhinitis
+C08.460.799	Chamaemelum nobile	1	Rhinitis
+C08.618.326	Cinnamomum aromaticum	1	Dyspnea
+C08.618.326	Ruta graveolens	1	Dyspnea
+C08.618.326	Helianthus annuus	1	Dyspnea
+C08.618.490	Apium graveolens	1	Hoarseness
+C08.618.840	Brassica nigra	1	Respiratory Distress Syndrome, Adult
+C08.618.846	Apium graveolens	1	Respiratory Insufficiency
+C08.618.846	Glycyrrhiza glabra	1	Respiratory Insufficiency
+C08.618.846	Thymus vulgaris	1	Respiratory Insufficiency
+C08.674.095	Allium sativum	2	Asthma
+C08.674.095	Achillea millefolium	1	Asthma
+C08.674.095	Cichorium intybus	1	Asthma
+C08.674.095	Pimpinella anisum	1	Asthma
+C08.674.095	Persea americana	1	Asthma
+C08.674.095	Salvia rosmarinus	1	Asthma
+C08.674.095	Apium graveolens	1	Asthma
+C08.674.095	Capsicum frutescens	1	Asthma
+C08.674.095	Sesamum indicum	1	Asthma
+C08.674.095	Artemisia vulgaris	1	Asthma
+C08.674.095	Helianthus annuus	1	Asthma
+C08.674.095	Foeniculum vulgare	1	Asthma
+C08.674.095	Thymus vulgaris	1	Asthma
+C08.674.095	Taraxacum officinale	1	Asthma
+C08.674.095	Juniperus communis	1	Asthma
+C08.674.095	Chenopodium quinoa	1	Asthma
+C08.674.095	Trigonella foenum-graecum	1	Asthma
+C08.674.095	Laurus nobilis	1	Asthma
+C08.674.095	Chamaemelum nobile	1	Asthma
+C08.674.453	Macropiper excelsum	1	Rhinitis, Allergic
+C08.674.453	Persea americana	1	Rhinitis, Allergic
+C08.674.453	Apium graveolens	1	Rhinitis, Allergic
+C08.674.453	Capsicum annuum	1	Rhinitis, Allergic
+C08.674.453	Capsicum frutescens	1	Rhinitis, Allergic
+C08.674.453	Artemisia vulgaris	1	Rhinitis, Allergic
+C08.674.453	Helianthus annuus	1	Rhinitis, Allergic
+C08.674.453	Allium sativum	1	Rhinitis, Allergic
+C08.674.453	Foeniculum vulgare	1	Rhinitis, Allergic
+C08.674.453	Taraxacum officinale	1	Rhinitis, Allergic
+C08.674.453	Chenopodium quinoa	1	Rhinitis, Allergic
+C08.674.453	Crocus sativus	1	Rhinitis, Allergic
+C08.674.453	Chamaemelum nobile	1	Rhinitis, Allergic
+C08.730.099	Curcuma longa	1	Bronchitis
+C08.730.610	Syzygium aromaticum	1	Pneumonia
+C08.730.610	Sesamum indicum	1	Pneumonia
+C08.785.520	Linum usitatissimum	1	Lung Neoplasms
+C08.785.520	Glycyrrhiza glabra	1	Lung Neoplasms
+C09.400.313	Apium graveolens	1	Laryngeal Edema
+C09.400.940	Apium graveolens	1	Voice Disorders
+C09.603.799	Macropiper excelsum	1	Rhinitis
+C09.603.799	Persea americana	1	Rhinitis
+C09.603.799	Apium graveolens	1	Rhinitis
+C09.603.799	Capsicum annuum	1	Rhinitis
+C09.603.799	Capsicum frutescens	1	Rhinitis
+C09.603.799	Artemisia vulgaris	1	Rhinitis
+C09.603.799	Helianthus annuus	1	Rhinitis
+C09.603.799	Allium sativum	1	Rhinitis
+C09.603.799	Foeniculum vulgare	1	Rhinitis
+C09.603.799	Taraxacum officinale	1	Rhinitis
+C09.603.799	Chenopodium quinoa	1	Rhinitis
+C09.603.799	Crocus sativus	1	Rhinitis
+C09.603.799	Chamaemelum nobile	1	Rhinitis
+C10.228.140	Ginkgo biloba	5	Brain Diseases
+C10.228.140	Glycyrrhiza glabra	4	Brain Diseases
+C10.228.140	Artemisia absinthium	2	Brain Diseases
+C10.228.140	Borago officinalis	1	Brain Diseases
+C10.228.140	Umbellularia californica	1	Brain Diseases
+C10.228.140	Hyssopus officinalis	1	Brain Diseases
+C10.228.140	Artemisia vulgaris	1	Brain Diseases
+C10.228.140	Helianthus annuus	1	Brain Diseases
+C10.228.140	Foeniculum vulgare	1	Brain Diseases
+C10.228.140	Myristica fragrans	1	Brain Diseases
+C10.228.854	Metroxylon sagu	1	Spinal Cord Diseases
+C10.500.680	Hibiscus sabdariffa	1	Neural Tube Defects
+C10.500.680	Glycyrrhiza glabra	1	Neural Tube Defects
+C10.500.680	Trigonella foenum-graecum	1	Neural Tube Defects
+C10.574.562	Metroxylon sagu	1	Motor Neuron Disease
+C10.574.950	Metroxylon sagu	1	TDP-43 Proteinopathies
+C10.597.114	Trigonella foenum-graecum	1	Cerebrospinal Fluid Leak
+C10.597.350	Ruta graveolens	2	Dyskinesias
+C10.597.350	Cinnamomum aromaticum	1	Dyskinesias
+C10.597.350	Myristica fragrans	1	Dyskinesias
+C10.597.606	Ginkgo biloba	3	Neurobehavioral Manifestations
+C10.597.606	Myristica fragrans	2	Neurobehavioral Manifestations
+C10.597.606	Gaultheria procumbens	1	Neurobehavioral Manifestations
+C10.597.606	Syzygium aromaticum	1	Neurobehavioral Manifestations
+C10.597.606	Artemisia vulgaris	1	Neurobehavioral Manifestations
+C10.597.606	Glycyrrhiza glabra	1	Neurobehavioral Manifestations
+C10.597.609	Allium sativum	1	Neurogenic Inflammation
+C10.597.613	Glycyrrhiza glabra	2	Neuromuscular Manifestations
+C10.597.617	Glycyrrhiza glabra	3	Pain
+C10.597.617	Ginkgo biloba	2	Pain
+C10.597.617	Capsicum frutescens	2	Pain
+C10.597.617	Umbellularia californica	1	Pain
+C10.597.617	Capsicum annuum	1	Pain
+C10.597.617	Allium sativum	1	Pain
+C10.597.622	Allium sativum	1	Paralysis
+C10.597.622	Glycyrrhiza glabra	1	Paralysis
+C10.597.636	Glycyrrhiza glabra	2	Paresis
+C10.597.742	Ginkgo biloba	1	Seizures
+C10.597.742	Hyssopus officinalis	1	Seizures
+C10.597.742	Foeniculum vulgare	1	Seizures
+C10.597.742	Glycyrrhiza glabra	1	Seizures
+C10.597.742	Artemisia absinthium	1	Seizures
+C10.597.751	Capsicum annuum	2	Sensation Disorders
+C10.597.751	Ginkgo biloba	1	Sensation Disorders
+C10.597.751	Capsicum frutescens	1	Sensation Disorders
+C10.597.751	Glycyrrhiza glabra	1	Sensation Disorders
+C10.597.751	Trigonella foenum-graecum	1	Sensation Disorders
+C10.597.751	Zingiber officinale	1	Sensation Disorders
+C10.597.975	Apium graveolens	1	Voice Disorders
+C10.668.467	Metroxylon sagu	1	Motor Neuron Disease
+C10.668.491	Glycyrrhiza glabra	4	Muscular Diseases
+C10.668.491	Trigonella foenum-graecum	2	Muscular Diseases
+C10.668.758	Allium sativum	1	Neuromuscular Junction Diseases
+C10.668.758	Chamaemelum nobile	1	Neuromuscular Junction Diseases
+C10.720.150	Allium sativum	1	Botulism
+C10.720.150	Chamaemelum nobile	1	Botulism
+C10.900.300	Trigonella foenum-graecum	1	Craniocerebral Trauma
+C11.187.183	Capsicum frutescens	1	Conjunctivitis
+C11.187.183	Helianthus annuus	1	Conjunctivitis
+C11.187.183	Capparis spinosa	1	Conjunctivitis
+C11.204.564	Capparis spinosa	1	Keratitis
+C11.290.484	Ginkgo biloba	1	Hyphema
+C11.496.260	Allium sativum	1	Dry Eye Syndromes
+C12.706.316	Glycyrrhiza glabra	1	Disorders of Sex Development
+C12.777.419	Glycyrrhiza glabra	3	Kidney Diseases
+C12.777.419	Cinnamomum verum	1	Kidney Diseases
+C12.777.419	Curcuma longa	1	Kidney Diseases
+C12.777.419	Ruta graveolens	1	Kidney Diseases
+C12.777.419	Petroselinum crispum	1	Kidney Diseases
+C12.777.419	Nigella sativa	1	Kidney Diseases
+C12.777.829	Capsicum frutescens	1	Urinary Bladder Diseases
+C12.777.934	Carthamus tinctorius	1	Urination Disorders
+C12.777.967	Cinnamomum verum	1	Urolithiasis
+C12.777.967	Curcuma longa	1	Urolithiasis
+C13.351.875	Glycyrrhiza glabra	1	Urogenital Abnormalities
+C13.351.968	Glycyrrhiza glabra	3	Urologic Diseases
+C13.351.968	Cinnamomum verum	2	Urologic Diseases
+C13.351.968	Curcuma longa	2	Urologic Diseases
+C13.351.968	Ruta graveolens	1	Urologic Diseases
+C13.351.968	Petroselinum crispum	1	Urologic Diseases
+C13.351.968	Capsicum frutescens	1	Urologic Diseases
+C13.351.968	Carthamus tinctorius	1	Urologic Diseases
+C13.351.968	Nigella sativa	1	Urologic Diseases
+C13.703.039	Juniperus communis	1	Abortion, Spontaneous
+C13.703.277	Glycyrrhiza glabra	1	Fetal Diseases
+C13.703.277	Trigonella foenum-graecum	1	Fetal Diseases
+C13.703.395	Glycyrrhiza glabra	1	Hypertension, Pregnancy-Induced
+C13.703.700	Juniperus communis	1	Pregnancy Complications, Infectious
+C14.280.067	Glycyrrhiza glabra	4	Arrhythmias, Cardiac
+C14.280.067	Helianthus annuus	2	Arrhythmias, Cardiac
+C14.280.067	Ginkgo biloba	1	Arrhythmias, Cardiac
+C14.280.067	Ruta graveolens	1	Arrhythmias, Cardiac
+C14.280.067	Allium sativum	1	Arrhythmias, Cardiac
+C14.280.067	Myristica fragrans	1	Arrhythmias, Cardiac
+C14.280.067	Chamaemelum nobile	1	Arrhythmias, Cardiac
+C14.280.195	Nigella sativa	1	Cardiomegaly
+C14.280.383	Glycyrrhiza glabra	1	Heart Arrest
+C14.280.647	Capsicum frutescens	1	Myocardial Ischemia
+C14.280.647	Glycyrrhiza glabra	1	Myocardial Ischemia
+C14.907.079	Pimpinella anisum	1	Angioedema
+C14.907.079	Persea americana	1	Angioedema
+C14.907.079	Apium graveolens	1	Angioedema
+C14.907.079	Coriandrum sativum	1	Angioedema
+C14.907.079	Bixa orellana	1	Angioedema
+C14.907.079	Trigonella foenum-graecum	1	Angioedema
+C14.907.079	Chamaemelum nobile	1	Angioedema
+C14.907.253	Ginkgo biloba	2	Cerebrovascular Disorders
+C14.907.253	Glycyrrhiza glabra	1	Cerebrovascular Disorders
+C14.907.449	Capsicum frutescens	1	Hemorrhoids
+C14.907.489	Ginkgo biloba	1	Hypertension
+C14.907.489	Persea americana	1	Hypertension
+C14.907.489	Capsicum frutescens	1	Hypertension
+C14.907.489	Allium sativum	1	Hypertension
+C14.907.489	Glycyrrhiza glabra	1	Hypertension
+C14.907.514	Cinnamomum aromaticum	1	Hypotension
+C14.907.514	Helianthus annuus	1	Hypotension
+C14.907.514	Bixa orellana	1	Hypotension
+C14.907.514	Chamaemelum nobile	1	Hypotension
+C14.907.585	Capsicum frutescens	1	Myocardial Ischemia
+C14.907.585	Glycyrrhiza glabra	1	Myocardial Ischemia
+C15.378.071	Allium sativum	2	Anemia
+C15.378.071	Ginkgo biloba	1	Anemia
+C15.378.071	Thymus vulgaris	1	Anemia
+C15.378.071	Nasturtium officinale	1	Anemia
+C15.378.071	Trigonella foenum-graecum	1	Anemia
+C15.378.100	Syzygium aromaticum	2	Blood Coagulation Disorders
+C15.378.100	Ginkgo biloba	1	Blood Coagulation Disorders
+C15.378.100	Ruta graveolens	1	Blood Coagulation Disorders
+C15.378.100	Allium sativum	1	Blood Coagulation Disorders
+C15.378.140	Allium sativum	1	Blood Platelet Disorders
+C15.378.140	Glycyrrhiza glabra	1	Blood Platelet Disorders
+C15.378.463	Syzygium aromaticum	1	Hemorrhagic Disorders
+C15.378.463	Foeniculum vulgare	1	Hemorrhagic Disorders
+C15.378.553	Capsicum annuum	1	Leukocyte Disorders
+C15.378.553	Nasturtium officinale	1	Leukocyte Disorders
+C15.378.700	Glycyrrhiza glabra	1	Pancytopenia
+C15.378.925	Syzygium aromaticum	1	Thrombophilia
+C16.131.042	Glycyrrhiza glabra	1	Abnormalities, Drug-Induced
+C16.131.042	Trigonella foenum-graecum	1	Abnormalities, Drug-Induced
+C16.131.085	Glycyrrhiza glabra	1	Abnormalities, Severe Teratoid
+C16.131.085	Trigonella foenum-graecum	1	Abnormalities, Severe Teratoid
+C16.131.621	Ginkgo biloba	1	Musculoskeletal Abnormalities
+C16.131.666	Hibiscus sabdariffa	1	Nervous System Malformations
+C16.131.666	Glycyrrhiza glabra	1	Nervous System Malformations
+C16.131.666	Trigonella foenum-graecum	1	Nervous System Malformations
+C16.131.939	Glycyrrhiza glabra	1	Urogenital Abnormalities
+C16.300.390	Glycyrrhiza glabra	1	Fetal Growth Retardation
+C16.300.390	Trigonella foenum-graecum	1	Fetal Growth Retardation
+C16.320.099	Ginkgo biloba	1	Blood Coagulation Disorders, Inherited
+C16.320.099	Allium sativum	1	Blood Coagulation Disorders, Inherited
+C16.320.565	Glycyrrhiza glabra	4	Metabolism, Inborn Errors
+C16.320.850	Persea americana	1	Skin Diseases, Genetic
+C16.320.850	Apium graveolens	1	Skin Diseases, Genetic
+C16.320.850	Artemisia vulgaris	1	Skin Diseases, Genetic
+C16.320.850	Chenopodium quinoa	1	Skin Diseases, Genetic
+C16.320.850	Nasturtium officinale	1	Skin Diseases, Genetic
+C17.800.030	Helianthus annuus	1	Acneiform Eruptions
+C17.800.174	Cinnamomum verum	3	Dermatitis
+C17.800.174	Salvia rosmarinus	3	Dermatitis
+C17.800.174	Apium graveolens	3	Dermatitis
+C17.800.174	Allium sativum	3	Dermatitis
+C17.800.174	Elettaria cardamomum	2	Dermatitis
+C17.800.174	Achillea millefolium	2	Dermatitis
+C17.800.174	Rhus coriaria	2	Dermatitis
+C17.800.174	Mentha x piperita	2	Dermatitis
+C17.800.174	Capsicum frutescens	2	Dermatitis
+C17.800.174	Artemisia vulgaris	2	Dermatitis
+C17.800.174	Helianthus annuus	2	Dermatitis
+C17.800.174	Thymus vulgaris	2	Dermatitis
+C17.800.174	Cymbopogon citratus	2	Dermatitis
+C17.800.174	Crocus sativus	2	Dermatitis
+C17.800.174	Laurus nobilis	2	Dermatitis
+C17.800.174	Cichorium intybus	1	Dermatitis
+C17.800.174	Plectranthus amboinicus	1	Dermatitis
+C17.800.174	Syzygium aromaticum	1	Dermatitis
+C17.800.174	Ginkgo biloba	1	Dermatitis
+C17.800.174	Persea americana	1	Dermatitis
+C17.800.174	Brassica nigra	1	Dermatitis
+C17.800.174	Ruta graveolens	1	Dermatitis
+C17.800.174	Lavandula angustifolia	1	Dermatitis
+C17.800.174	Capsicum annuum	1	Dermatitis
+C17.800.174	Sesamum indicum	1	Dermatitis
+C17.800.174	Carthamus tinctorius	1	Dermatitis
+C17.800.174	Myristica fragrans	1	Dermatitis
+C17.800.174	Nigella sativa	1	Dermatitis
+C17.800.174	Chenopodium quinoa	1	Dermatitis
+C17.800.174	Allium schoenoprasum	1	Dermatitis
+C17.800.174	Matricaria chamomilla	1	Dermatitis
+C17.800.174	Chamaemelum nobile	1	Dermatitis
+C17.800.229	Nigella sativa	1	Erythema
+C17.800.229	Laurus nobilis	1	Erythema
+C17.800.257	Ginkgo biloba	1	Exanthema
+C17.800.257	Apium graveolens	1	Exanthema
+C17.800.329	Carthamus tinctorius	1	Hair Diseases
+C17.800.600	Ruta graveolens	1	Photosensitivity Disorders
+C17.800.600	Apium graveolens	1	Photosensitivity Disorders
+C17.800.600	Allium sativum	1	Photosensitivity Disorders
+C17.800.685	Cinnamomum verum	1	Pruritus
+C17.800.685	Capsicum annuum	1	Pruritus
+C17.800.685	Capsicum frutescens	1	Pruritus
+C17.800.685	Helianthus annuus	1	Pruritus
+C17.800.794	Helianthus annuus	1	Sebaceous Gland Diseases
+C17.800.815	Cinnamomum verum	2	Skin Diseases, Eczematous
+C17.800.815	Apium graveolens	2	Skin Diseases, Eczematous
+C17.800.815	Capsicum frutescens	2	Skin Diseases, Eczematous
+C17.800.815	Allium sativum	2	Skin Diseases, Eczematous
+C17.800.815	Laurus nobilis	2	Skin Diseases, Eczematous
+C17.800.815	Elettaria cardamomum	1	Skin Diseases, Eczematous
+C17.800.815	Achillea millefolium	1	Skin Diseases, Eczematous
+C17.800.815	Cichorium intybus	1	Skin Diseases, Eczematous
+C17.800.815	Plectranthus amboinicus	1	Skin Diseases, Eczematous
+C17.800.815	Rhus coriaria	1	Skin Diseases, Eczematous
+C17.800.815	Ginkgo biloba	1	Skin Diseases, Eczematous
+C17.800.815	Mentha x piperita	1	Skin Diseases, Eczematous
+C17.800.815	Persea americana	1	Skin Diseases, Eczematous
+C17.800.815	Brassica nigra	1	Skin Diseases, Eczematous
+C17.800.815	Ruta graveolens	1	Skin Diseases, Eczematous
+C17.800.815	Lavandula angustifolia	1	Skin Diseases, Eczematous
+C17.800.815	Salvia rosmarinus	1	Skin Diseases, Eczematous
+C17.800.815	Sesamum indicum	1	Skin Diseases, Eczematous
+C17.800.815	Artemisia vulgaris	1	Skin Diseases, Eczematous
+C17.800.815	Helianthus annuus	1	Skin Diseases, Eczematous
+C17.800.815	Thymus vulgaris	1	Skin Diseases, Eczematous
+C17.800.815	Chenopodium quinoa	1	Skin Diseases, Eczematous
+C17.800.815	Cymbopogon citratus	1	Skin Diseases, Eczematous
+C17.800.815	Allium schoenoprasum	1	Skin Diseases, Eczematous
+C17.800.815	Crocus sativus	1	Skin Diseases, Eczematous
+C17.800.815	Matricaria chamomilla	1	Skin Diseases, Eczematous
+C17.800.827	Persea americana	1	Skin Diseases, Genetic
+C17.800.827	Apium graveolens	1	Skin Diseases, Genetic
+C17.800.827	Artemisia vulgaris	1	Skin Diseases, Genetic
+C17.800.827	Chenopodium quinoa	1	Skin Diseases, Genetic
+C17.800.827	Nasturtium officinale	1	Skin Diseases, Genetic
+C17.800.838	Artemisia vulgaris	1	Skin Diseases, Infectious
+C17.800.862	Persea americana	2	Skin Diseases, Vascular
+C17.800.862	Apium graveolens	2	Skin Diseases, Vascular
+C17.800.862	Coriandrum sativum	2	Skin Diseases, Vascular
+C17.800.862	Bixa orellana	2	Skin Diseases, Vascular
+C17.800.862	Trigonella foenum-graecum	2	Skin Diseases, Vascular
+C17.800.862	Cinnamomum aromaticum	1	Skin Diseases, Vascular
+C17.800.862	Achillea millefolium	1	Skin Diseases, Vascular
+C17.800.862	Pimpinella anisum	1	Skin Diseases, Vascular
+C17.800.862	Capsicum frutescens	1	Skin Diseases, Vascular
+C17.800.862	Artemisia vulgaris	1	Skin Diseases, Vascular
+C17.800.862	Helianthus annuus	1	Skin Diseases, Vascular
+C17.800.862	Allium sativum	1	Skin Diseases, Vascular
+C17.800.862	Taraxacum officinale	1	Skin Diseases, Vascular
+C17.800.862	Chenopodium quinoa	1	Skin Diseases, Vascular
+C17.800.862	Chamaemelum nobile	1	Skin Diseases, Vascular
+C17.800.865	Nigella sativa	1	Skin Diseases, Vesiculobullous
+C17.800.865	Laurus nobilis	1	Skin Diseases, Vesiculobullous
+C17.800.882	Glycyrrhiza glabra	1	Skin Neoplasms
+C18.452.076	Glycyrrhiza glabra	2	Acid-Base Imbalance
+C18.452.076	Syzygium aromaticum	1	Acid-Base Imbalance
+C18.452.076	Helianthus annuus	1	Acid-Base Imbalance
+C18.452.076	Thymus vulgaris	1	Acid-Base Imbalance
+C18.452.076	Artemisia absinthium	1	Acid-Base Imbalance
+C18.452.132	Glycyrrhiza glabra	1	Brain Diseases, Metabolic
+C18.452.394	Carthamus tinctorius	1	Glucose Metabolism Disorders
+C18.452.648	Glycyrrhiza glabra	4	Metabolism, Inborn Errors
+C18.452.811	Nasturtium officinale	1	Porphyrias
+C18.452.845	Metroxylon sagu	1	Proteostasis Deficiencies
+C18.452.950	Glycyrrhiza glabra	2	Water-Electrolyte Imbalance
+C18.452.950	Ruta graveolens	1	Water-Electrolyte Imbalance
+C18.654.521	Hibiscus sabdariffa	1	Malnutrition
+C18.654.726	Carthamus tinctorius	1	Overnutrition
+C19.053.500	Glycyrrhiza glabra	1	Adrenal Insufficiency
+C19.053.800	Glycyrrhiza glabra	1	Adrenocortical Hyperfunction
+C19.391.119	Glycyrrhiza glabra	1	Disorders of Sex Development
+C19.391.482	Glycyrrhiza glabra	1	Hypogonadism
+C19.642.355	Glycyrrhiza glabra	1	Hyperparathyroidism
+C19.874.397	Apium graveolens	1	Hyperthyroidism
+C20.543.206	Salvia rosmarinus	1	Drug Hypersensitivity
+C20.543.206	Artemisia vulgaris	1	Drug Hypersensitivity
+C20.543.206	Nigella sativa	1	Drug Hypersensitivity
+C20.543.418	Allium sativum	1	Hypersensitivity, Delayed
+C20.543.418	Glycyrrhiza glabra	1	Hypersensitivity, Delayed
+C20.543.480	Apium graveolens	7	Hypersensitivity, Immediate
+C20.543.480	Artemisia vulgaris	7	Hypersensitivity, Immediate
+C20.543.480	Persea americana	6	Hypersensitivity, Immediate
+C20.543.480	Allium sativum	6	Hypersensitivity, Immediate
+C20.543.480	Helianthus annuus	5	Hypersensitivity, Immediate
+C20.543.480	Capsicum frutescens	4	Hypersensitivity, Immediate
+C20.543.480	Chenopodium quinoa	4	Hypersensitivity, Immediate
+C20.543.480	Coriandrum sativum	3	Hypersensitivity, Immediate
+C20.543.480	Sesamum indicum	3	Hypersensitivity, Immediate
+C20.543.480	Taraxacum officinale	3	Hypersensitivity, Immediate
+C20.543.480	Bixa orellana	3	Hypersensitivity, Immediate
+C20.543.480	Trigonella foenum-graecum	3	Hypersensitivity, Immediate
+C20.543.480	Chamaemelum nobile	3	Hypersensitivity, Immediate
+C20.543.480	Achillea millefolium	2	Hypersensitivity, Immediate
+C20.543.480	Pimpinella anisum	2	Hypersensitivity, Immediate
+C20.543.480	Capsicum annuum	2	Hypersensitivity, Immediate
+C20.543.480	Foeniculum vulgare	2	Hypersensitivity, Immediate
+C20.543.480	Crocus sativus	2	Hypersensitivity, Immediate
+C20.543.480	Cinnamomum aromaticum	1	Hypersensitivity, Immediate
+C20.543.480	Macropiper excelsum	1	Hypersensitivity, Immediate
+C20.543.480	Cichorium intybus	1	Hypersensitivity, Immediate
+C20.543.480	Salvia rosmarinus	1	Hypersensitivity, Immediate
+C20.543.480	Linum usitatissimum	1	Hypersensitivity, Immediate
+C20.543.480	Thymus vulgaris	1	Hypersensitivity, Immediate
+C20.543.480	Juniperus communis	1	Hypersensitivity, Immediate
+C20.543.480	Laurus nobilis	1	Hypersensitivity, Immediate
+C20.543.600	Persea americana	1	Latex Hypersensitivity
+C23.300.035	Carthamus tinctorius	1	Alopecia
+C23.300.775	Nigella sativa	1	Hypertrophy
+C23.300.775	Nasturtium officinale	1	Hypertrophy
+C23.550.073	Glycyrrhiza glabra	4	Arrhythmias, Cardiac
+C23.550.073	Helianthus annuus	2	Arrhythmias, Cardiac
+C23.550.073	Ginkgo biloba	1	Arrhythmias, Cardiac
+C23.550.073	Ruta graveolens	1	Arrhythmias, Cardiac
+C23.550.073	Allium sativum	1	Arrhythmias, Cardiac
+C23.550.073	Myristica fragrans	1	Arrhythmias, Cardiac
+C23.550.073	Chamaemelum nobile	1	Arrhythmias, Cardiac
+C23.550.161	Persea americana	1	Cardiotoxicity
+C23.550.260	Sesamum indicum	1	Death
+C23.550.260	Helianthus annuus	1	Death
+C23.550.288	Glycyrrhiza glabra	1	Disease
+C23.550.291	Metroxylon sagu	1	Disease Attributes
+C23.550.393	Glycyrrhiza glabra	1	Growth Disorders
+C23.550.393	Trigonella foenum-graecum	1	Growth Disorders
+C23.550.414	Ginkgo biloba	4	Hemorrhage
+C23.550.414	Allium sativum	3	Hemorrhage
+C23.550.414	Piper nigrum	1	Hemorrhage
+C23.550.414	Capsicum annuum	1	Hemorrhage
+C23.550.414	Glycyrrhiza glabra	1	Hemorrhage
+C23.550.414	Zingiber officinale	1	Hemorrhage
+C23.550.444	Curcuma longa	1	Hyperplasia
+C23.550.470	Allium sativum	2	Inflammation
+C23.550.470	Curcuma longa	1	Inflammation
+C23.550.470	Syzygium aromaticum	1	Inflammation
+C23.550.470	Capsicum annuum	1	Inflammation
+C23.550.513	Helianthus annuus	1	Ischemia
+C23.550.695	Glycyrrhiza glabra	1	Muscle Weakness
+C23.550.727	Carthamus tinctorius	1	Neoplastic Processes
+C23.550.737	Ginkgo biloba	1	Nerve Degeneration
+C23.550.767	Allium sativum	1	Postoperative Complications
+C23.550.835	Apium graveolens	1	Shock
+C23.550.835	Carthamus tinctorius	1	Shock
+C23.550.891	Curcuma longa	1	Ulcer
+C23.550.891	Plectranthus amboinicus	1	Ulcer
+C23.550.891	Syzygium aromaticum	1	Ulcer
+C23.888.119	Capsicum annuum	1	Body Temperature Changes
+C23.888.119	Nigella sativa	1	Body Temperature Changes
+C23.888.119	Nasturtium officinale	1	Body Temperature Changes
+C23.888.144	Glycyrrhiza glabra	2	Body Weight
+C23.888.144	Hibiscus sabdariffa	1	Body Weight
+C23.888.144	Carthamus tinctorius	1	Body Weight
+C23.888.144	Helianthus annuus	1	Body Weight
+C23.888.277	Piper nigrum	1	Edema
+C23.888.277	Ginkgo biloba	1	Edema
+C23.888.277	Apium graveolens	1	Edema
+C23.888.277	Coriandrum sativum	1	Edema
+C23.888.277	Capsicum annuum	1	Edema
+C23.888.277	Capsicum frutescens	1	Edema
+C23.888.277	Artemisia vulgaris	1	Edema
+C23.888.277	Glycyrrhiza glabra	1	Edema
+C23.888.277	Trigonella foenum-graecum	1	Edema
+C23.888.592	Glycyrrhiza glabra	11	Neurologic Manifestations
+C23.888.592	Ginkgo biloba	7	Neurologic Manifestations
+C23.888.592	Capsicum annuum	3	Neurologic Manifestations
+C23.888.592	Capsicum frutescens	3	Neurologic Manifestations
+C23.888.592	Myristica fragrans	3	Neurologic Manifestations
+C23.888.592	Ruta graveolens	2	Neurologic Manifestations
+C23.888.592	Allium sativum	2	Neurologic Manifestations
+C23.888.592	Trigonella foenum-graecum	2	Neurologic Manifestations
+C23.888.592	Cinnamomum aromaticum	1	Neurologic Manifestations
+C23.888.592	Gaultheria procumbens	1	Neurologic Manifestations
+C23.888.592	Syzygium aromaticum	1	Neurologic Manifestations
+C23.888.592	Umbellularia californica	1	Neurologic Manifestations
+C23.888.592	Hyssopus officinalis	1	Neurologic Manifestations
+C23.888.592	Apium graveolens	1	Neurologic Manifestations
+C23.888.592	Artemisia vulgaris	1	Neurologic Manifestations
+C23.888.592	Foeniculum vulgare	1	Neurologic Manifestations
+C23.888.592	Artemisia absinthium	1	Neurologic Manifestations
+C23.888.592	Zingiber officinale	1	Neurologic Manifestations
+C23.888.821	Allium sativum	3	Signs and Symptoms, Digestive
+C23.888.821	Ginkgo biloba	2	Signs and Symptoms, Digestive
+C23.888.821	Coriandrum sativum	2	Signs and Symptoms, Digestive
+C23.888.821	Cinnamomum aromaticum	1	Signs and Symptoms, Digestive
+C23.888.821	Gaultheria procumbens	1	Signs and Symptoms, Digestive
+C23.888.821	Persea americana	1	Signs and Symptoms, Digestive
+C23.888.821	Helianthus annuus	1	Signs and Symptoms, Digestive
+C23.888.821	Glycyrrhiza glabra	1	Signs and Symptoms, Digestive
+C23.888.821	Nigella sativa	1	Signs and Symptoms, Digestive
+C23.888.821	Artemisia absinthium	1	Signs and Symptoms, Digestive
+C23.888.821	Trigonella foenum-graecum	1	Signs and Symptoms, Digestive
+C23.888.852	Cinnamomum aromaticum	1	Signs and Symptoms, Respiratory
+C23.888.852	Ruta graveolens	1	Signs and Symptoms, Respiratory
+C23.888.852	Apium graveolens	1	Signs and Symptoms, Respiratory
+C23.888.852	Helianthus annuus	1	Signs and Symptoms, Respiratory
+C23.888.852	Trigonella foenum-graecum	1	Signs and Symptoms, Respiratory
+C23.888.885	Cinnamomum verum	1	Skin Manifestations
+C23.888.885	Capsicum annuum	1	Skin Manifestations
+C23.888.885	Capsicum frutescens	1	Skin Manifestations
+C23.888.885	Helianthus annuus	1	Skin Manifestations
+C23.888.942	Capsicum frutescens	1	Urological Manifestations
+C23.888.942	Carthamus tinctorius	1	Urological Manifestations
+C25.100.389	Persea americana	1	Cardiotoxicity
+C25.100.468	Salvia rosmarinus	1	Drug Hypersensitivity
+C25.100.468	Artemisia vulgaris	1	Drug Hypersensitivity
+C25.100.468	Nigella sativa	1	Drug Hypersensitivity
+C25.100.562	Cinnamomum verum	1	Chemical and Drug Induced Liver Injury
+C25.100.562	Curcuma longa	1	Chemical and Drug Induced Liver Injury
+C25.100.562	Syzygium aromaticum	1	Chemical and Drug Induced Liver Injury
+C25.100.562	Ginkgo biloba	1	Chemical and Drug Induced Liver Injury
+C25.100.562	Mentha x piperita	1	Chemical and Drug Induced Liver Injury
+C25.100.562	Helianthus annuus	1	Chemical and Drug Induced Liver Injury
+C25.100.562	Allium sativum	1	Chemical and Drug Induced Liver Injury
+C25.100.562	Nigella sativa	1	Chemical and Drug Induced Liver Injury
+C25.723.260	Cinnamomum verum	1	Chemical and Drug Induced Liver Injury
+C25.723.260	Curcuma longa	1	Chemical and Drug Induced Liver Injury
+C25.723.260	Syzygium aromaticum	1	Chemical and Drug Induced Liver Injury
+C25.723.260	Ginkgo biloba	1	Chemical and Drug Induced Liver Injury
+C25.723.260	Mentha x piperita	1	Chemical and Drug Induced Liver Injury
+C25.723.260	Helianthus annuus	1	Chemical and Drug Induced Liver Injury
+C25.723.260	Allium sativum	1	Chemical and Drug Induced Liver Injury
+C25.723.260	Nigella sativa	1	Chemical and Drug Induced Liver Injury
+C25.723.415	Ginkgo biloba	1	Foodborne Diseases
+C25.723.415	Allium sativum	1	Foodborne Diseases
+C25.723.415	Chamaemelum nobile	1	Foodborne Diseases
+C25.723.705	Illicium verum	1	Neurotoxicity Syndromes
+C25.723.705	Ginkgo biloba	1	Neurotoxicity Syndromes
+C26.733.266	Persea americana	1	Cardiotoxicity
+C26.915.300	Trigonella foenum-graecum	1	Craniocerebral Trauma
+F03.084.500	Apium graveolens	1	Bipolar Disorder
+F03.400.125	Glycyrrhiza glabra	1	Anorexia Nervosa
+F03.600.300	Apium graveolens	1	Depressive Disorder
+F03.600.300	Glycyrrhiza glabra	1	Depressive Disorder
+F03.625.539	Ginkgo biloba	1	Intellectual Disability
